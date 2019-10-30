@@ -1,6 +1,6 @@
 # thairath-228k
 **A Large Dataset for Thai Text Summarization from thairath.co.th.**
-Dowload the dataset [here](https://drive.google.com/file/d/1IUoKGFjGF4hxnAQ19-l12zAXTmw0V4s7/view?usp=sharing).
+Download the dataset [here](https://drive.google.com/file/d/1IUoKGFjGF4hxnAQ19-l12zAXTmw0V4s7/view?usp=sharing).
 
 
 The `thairath-228k` dataset is crawled from the news site [Thairath](https://www.thairath.co.th/home "Thairath"). This dataset is purposefully scraped for evaluating various Thai NLP tasks especially text summarisation and classification-benchmarks. We filtered out those articles which match, at least, one of following conditions:
