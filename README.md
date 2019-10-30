@@ -1,5 +1,5 @@
 # thairath-228k
-A Large Dataset for Thai Tex Summarisation from [thairath.co.th](thairath.co.th "thairath.co.th")
+A Large Dataset for Thai Tex Summarisation from [thairath.co.th](thairath.co.th)
 
 The `thairath-228k` dataset is crawled from the news site [Thairath](https://www.thairath.co.th/home "Thairath"). This dataset is purposefully scraped for evaluating various Tahi NLP tasks especially text summarisation and classification-benchmarks.
 
@@ -13,15 +13,16 @@ After filtering, it contains 228,937 articles with 388,383 tags from October 1, 
 
 ### `thairath-228k` dataset statistics
 
-| Propoties     | Value |
-| --------- | -----:|
+| Properties     | Value |
+| :--------- | -----:|
 | Dataset Size  | 228,937 |
 | Average Article Length     |   478.44 |
 | Average Summary Length     |    46.54 |
 | Vocabulary Size | To be updated |
 #### Level of Abstractedness
 Abstractedness of the dataset is measured by calculating the unique n-grams in the reference summary which are not in the article. We compared the abstractedness level of `thairath-228k` dataset with `CNN/Daily Mail` and `WikiHow` dataset. The comparison is shown below figure.
-![](https://dev.tencent.com/u/nakhun/p/thairath-228k/git/raw/master/data/figure.png)
+
+![](https://github.com/nakhunchumpolsathien/thairath-226k/blob/master/data/comparision_g.png?raw=true)
 
 > ※ The abstractedness at sentence level of `thairath-228k` is to be updated.
 
