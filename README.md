@@ -9,7 +9,7 @@ The `thairath-228k` dataset is crawled from the news site [Thairath](https://www
 - Summary contains less than 8 words.
 - The abstractedness of the summary at 1-grams is less than 65%. 
 
-After filtering, it contains 228,937 articles with 388,383 tags from October 1, 2014 to October 21, 2019. This dataset was crawled and cleaned by [@nakhunchumpolsathien](https://github.com/nakhunchumpolsathien) and [@CaramelWaffle](https://github.com/caramelWaffle). You can see preliminary exploration in `exploration.ipynb`.
+After filtering, it contains 228,937 articles with 388,383 tags from October 1, 2014 to October 21, 2019. This dataset was crawled and cleaned by [Nakhun Chumpolsathien](https://github.com/nakhunchumpolsathien) and [@Tanachat Arayachutinan](https://github.com/caramelWaffle). You can see preliminary exploration in `exploration.ipynb`.
 
 ### `thairath-228k` Dataset Statistics
 
