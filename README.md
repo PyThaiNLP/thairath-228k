@@ -18,15 +18,15 @@ After filtering, it contains 228,937 articles with 388,383 tags from October 1, 
 | Dataset Size  | 228,937 |
 | Average Article Length     |   478.44 |
 | Average Summary Length     |    46.54 |
+| Average Title Length |      To be updated    |
+| Tag Size |  To be updated  |
 | Vocabulary Size | To be updated |
-#### Level of Abstractedness
-Abstractedness of the dataset is measured by calculating the unique n-grams in the reference summary which are not in the article. We compared the abstractedness level of `thairath-228k` dataset with `CNN/Daily Mail` and `WikiHow` dataset. The comparison is shown below figure.
+### Level of Abstractedness
+Abstractedness of the dataset is measured by calculating the unique n-grams in the reference summary which are not in the article. We compare the abstractedness level of `thairath-228k` dataset to `CNN/Daily Mail` and `WikiHow` dataset. The comparison is shown below figure.
 
 ![](data/comparison.png)
 
 > ※ The abstractedness at sentence level of `thairath-228k` is to be updated.
-
-
 ### Experimental results
 
 #### Classification-benchmarks
