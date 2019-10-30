@@ -11,7 +11,7 @@ We filtered out those articles which match, at least, one of following condition
 
 After filtering, it contains 228,937 articles with 388,383 tags from October 1, 2014 to October 21, 2019. This dataset was crawled and cleaned by [@nakhunchumpolsathien](https://github.com/nakhunchumpolsathien) and [@CaramelWaffle](https://github.com/caramelWaffle). Dowload the dataset [here](https://drive.google.com/file/d/1IUoKGFjGF4hxnAQ19-l12zAXTmw0V4s7/view?usp=sharing). You can see preliminary exploration in `exploration.ipynb`
 
-### `thairath-228k` dataset statistics
+### `thairath-228k` Dataset Statistics
 
 | Properties     | Value |
 | :--------- | -----:|
@@ -27,7 +27,7 @@ Abstractedness of the dataset is measured by calculating the unique n-grams in t
 ![](data/comparison.png)
 
 > ※ The abstractedness at sentence level of `thairath-228k` is to be updated.
-### Experimental results
+### Experimental Results
 
 #### Classification-benchmarks
  >※ To be updated 
