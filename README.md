@@ -18,7 +18,7 @@ After filtering, it contains 228,937 articles with 388,383 tags from October 1, 
 | Dataset Size  | 228,937 |
 | Average Article Length     |   478.44 |
 | Average Summary Length     |    46.54 |
-| Average Title Length |      To be updated    |
+| Average Title Length |      12.43|
 | Unique Tag Size |  388,383 |
 | Vocabulary Size | To be updated |
 ### Level of Abstractedness
