@@ -1,7 +1,7 @@
 # thairath-228k
-A Large Dataset for Thai Tex Summarisation from [thairath.co.th](thairath.co.th)
+A Large Dataset for Thai Text Summarization from thairath.co.th.
 
-The `thairath-228k` dataset is crawled from the news site [Thairath](https://www.thairath.co.th/home "Thairath"). This dataset is purposefully scraped for evaluating various Tahi NLP tasks especially text summarisation and classification-benchmarks.
+The `thairath-228k` dataset is crawled from the news site [Thairath](https://www.thairath.co.th/home "Thairath"). This dataset is purposefully scraped for evaluating various Thai NLP tasks especially text summarisation and classification-benchmarks.
 
 We filtered out those articles which match following conditions:
 - Article that contains following tags: `นิยาย` (novel), อินสตราแกรมดารา (celebrity Instagram), `คลิปสุดฮา` (funny clip), `สรุปข่าว` (highlight news), `ดวง` (horoscope )
@@ -26,20 +26,10 @@ Abstractedness of the dataset is measured by calculating the unique n-grams in t
 
 > ※ The abstractedness at sentence level of `thairath-228k` is to be updated.
 
-### Classification-benchmarks
-we selected the following tags with substantial volume that resemble **classifying types of articles**:
-- `ข่าวทั่วไป` - General News
-- `ข่าวกีฬา` - Sport News
-- `ข่าวทั่วไทย` - Local News
-- `ข่าวการเมือง` - Political News
-- `ข่าวสังคม` - Society News
-- `ข่าวเศรษฐกิจ` - Economic News
-- `ข่าวบันเทิง` -  Entertainment News
-- `ข่าวโซเชียล` - Socialnetwork News
-- `เลือกตั้ง` - Election 
-- `ข่าวต่างประเทศ` - International News
-- `ข่าวไลฟ์สไตล์` - Lifestyle News
-- `การศึกษา` - Education
 
 ### Experimental results
+
+#### Classification-benchmarks
+ >※ To be updated 
+#### Thai Text Summarization
  >※ To be updated 
