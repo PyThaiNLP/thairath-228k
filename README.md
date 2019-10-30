@@ -1,12 +1,9 @@
 # thairath-228k
-A Large Dataset for Thai Text Summarization from thairath.co.th.
-
+**A Large Dataset for Thai Text Summarization from thairath.co.th.**
 Dowload the dataset [here](https://drive.google.com/file/d/1IUoKGFjGF4hxnAQ19-l12zAXTmw0V4s7/view?usp=sharing).
 
 
-The `thairath-228k` dataset is crawled from the news site [Thairath](https://www.thairath.co.th/home "Thairath"). This dataset is purposefully scraped for evaluating various Thai NLP tasks especially text summarisation and classification-benchmarks.
-
-We filtered out those articles which match, at least, one of following conditions:
+The `thairath-228k` dataset is crawled from the news site [Thairath](https://www.thairath.co.th/home "Thairath"). This dataset is purposefully scraped for evaluating various Thai NLP tasks especially text summarisation and classification-benchmarks. We filtered out those articles which match, at least, one of following conditions:
 - Article that contains following tags: `นิยาย` (novel), อินสตราแกรมดารา (celebrity Instagram), `คลิปสุดฮา` (funny clip), `สรุปข่าว` (highlight news), `ดวง` (horoscope )
 - Article body contains less than 230 words.
 - Summary contains less than 8 words.
