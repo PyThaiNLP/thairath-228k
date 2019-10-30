@@ -22,7 +22,7 @@ After filtering, it contains 228,937 articles with 388,383 tags from October 1, 
 #### Level of Abstractedness
 Abstractedness of the dataset is measured by calculating the unique n-grams in the reference summary which are not in the article. We compared the abstractedness level of `thairath-228k` dataset with `CNN/Daily Mail` and `WikiHow` dataset. The comparison is shown below figure.
 
-![](https://github.com/nakhunchumpolsathien/thairath-226k/blob/master/data/comparision_g.png?raw=true)
+![](data/comparision_g.png)
 
 > ※ The abstractedness at sentence level of `thairath-228k` is to be updated.
 
